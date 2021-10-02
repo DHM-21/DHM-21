@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DHM-21
-- 👀 I’m interested in ...Ethical Hacking, Cyber Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Ethical Hacking, Cyber Security,Programming
+- 🌱 I’m currently learning security+,CEH
+- 💞️ I’m looking to collaborate on Cyber Security
+- 📫 mahyar_ch@live.com
 
 <!---
 DHM-21/DHM-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
